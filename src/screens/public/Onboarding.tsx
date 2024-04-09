@@ -9,7 +9,7 @@ const OnboardingScreens = [
   {
     id: 1,
     animation: ANIMATIONS.order,
-    title: 'Do vggg tempor incididunt, ipsum dolor sit amet.',
+    title: 'Do vg tempor incididunt, ipsum dolor sit amet.',
     subtitle:
       'lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.',
   },
